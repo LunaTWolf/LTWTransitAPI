@@ -1,0 +1,15 @@
+{
+  "name": "ltwtransitapi",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Luna Smouter",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "unzipper": "^0.12.5"
+  }
+}
